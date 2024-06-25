@@ -1,0 +1,3 @@
+config:
+  property:
+    example: This is a config property
