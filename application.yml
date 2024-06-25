@@ -1,0 +1,3 @@
+general:
+  config:
+    property: This is a root config property
